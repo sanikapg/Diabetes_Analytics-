@@ -1,5 +1,5 @@
 # Diabetes_Analytics-
-Authors: Nitesh Sharma & Sanika Gothivarekar
+Authors:Sanika Gothivarekar & Nitesh Sharma
 
 Project Objective:
 
